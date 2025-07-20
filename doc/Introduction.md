@@ -2,3 +2,5 @@
 Go also known as Golang is an open source, compiled and statically typed programming language developed by Google. The key people behind the creation of Go are Rob Pike, Ken Thompson and Robert Griesemer. Go was made publicly available in November 2009.
 
 Go is a general-purpose programming language with a simple syntax and is backed by a robust standard library. One of the key areas where Go shines is the creation of highly available and scalable web apps. Go can also be used to create command-line applications, desktop apps and even mobile applications.
+
+[ ] Done
